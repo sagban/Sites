@@ -37,7 +37,7 @@ The software used to complete this project was :  Adobe Dreamweaver             
 About various files and directories                                             |
 ***********************************                                             |
                                                                                 |
-All the content of the website is in the 'make-website/bayside' folder.         |
+All the content of the website is in the 'Sites/bayside' folder.                |
                                                                                 |
 --> index.html                                                                  |
         This is the homepage of the website. This would be displayed by default |
